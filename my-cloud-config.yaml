@@ -1,0 +1,7 @@
+#cloud-config
+chpasswd:
+  users:
+  - {name: ubuntu, password: ubuntu, type: text}
+  expire: False
+ssh_pwauth: True
+ssh_authorized_keys: <YOUR_PUB_KEY>
