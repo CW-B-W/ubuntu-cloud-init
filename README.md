@@ -27,3 +27,7 @@ Once the ISO is mounted and the VM is started, you can login with:
 
 ---
 *Note: This configuration enables password-based SSH login (`ssh_pwauth: True`) for convenience in development environments.*
+
+## Reference
+[run-an-ova-using-virtualbox](https://documentation.ubuntu.com/public-images/public-images-how-to/run-an-ova-using-virtualbox/)
+[Ubuntu Cloud Images](https://cloud-images.ubuntu.com/)
